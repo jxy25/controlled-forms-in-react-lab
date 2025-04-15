@@ -39,7 +39,7 @@ const Bookshelf = () => {
           <label htmlFor="author"> Author: </label>
           <input
             className="padding"
-            id="Input"
+            id="authorInput"
             name="author"
             type="text"
             value={newBook.author}
